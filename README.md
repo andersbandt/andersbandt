@@ -1,7 +1,7 @@
 ### Hello :)
 
-- 👋 Hi, I’m Anders. I am a graduate from UW-Madison with a B.S. in Electrical Engineering
-- 👀 I'm especially interested in the semiconductor industry, but have a wide range of technical interests
+- Hi, I’m Anders. I am a graduate from UW-Madison with a B.S. in Electrical Engineering
+- I'm especially interested in the semiconductor industry, but have a wide range of technical interests
 
 
 
